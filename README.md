@@ -26,8 +26,11 @@ RIPv2 will be used to provide routing for the routers in the internal network an
 The devices in building A will be expected to acquire dynamic IP addresses from a router-based DHCP server.</p>
 
 <h2>Technologies Implemented</h2>
-<p>Expected to configure the core devices and few end devices to provide end-to-end connectivity and access to the internal servers and the external server.</p>
-<p>Each faculty/department is expected to be on its own separate IP network. The switches should be configured with appropriate VLANs and security settings.</p>
-<p>RIPv2 will be used to provide routing for the routers in the internal network and static routing for the external server.</p>
-<p>The devices in building A will be expected to acquired dynamic IP address from a router-based DHCP server.</p>
-<p>VLANs, Inter-VLAN Routing (Router on a stick), DHCP Server, Port-Security, SSH, WLAN</p>
+<p>1. Expected to configure the core devices and few end devices to provide end-to-end connectivity and access to the internal servers and the external server.</p>
+<p>2. Each faculty/department is expected to be on its own separate IP network. The switches should be configured with appropriate VLANs and security settings.</p>
+<p>3. RIPv2 will be used to provide routing for the routers in the internal network and static routing for the external server.</p>
+<p>4. The devices in building A will be expected to acquired dynamic IP address from a router-based DHCP server.</p>
+<p>5. VLANs, Inter-VLAN Routing (Router on a stick), DHCP Server, Port-Security, SSH, WLAN</p>
+
+<h2>Result</h2>
+<img src="Network_Design.jpg" alt="Italian Trulli">
