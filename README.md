@@ -30,7 +30,7 @@ The devices in building A will be expected to acquire dynamic IP addresses from 
 <p>2. Each faculty/department is expected to be on its own separate IP network. The switches should be configured with appropriate VLANs and security settings.</p>
 <p>3. RIPv2 will be used to provide routing for the routers in the internal network and static routing for the external server.</p>
 <p>4. The devices in building A will be expected to acquired dynamic IP address from a router-based DHCP server.</p>
-<p>5. VLANs, Inter-VLAN Routing (Router on a stick), DHCP Server, Port-Security, SSH, WLAN</p>
+<p>5. VLANs, Inter-VLAN Routing (Router on a stick), DHCP Server, Port-Security, SSH, WLAN.</p>
 
 <h2>Result</h2>
 <img src="https://raw.githubusercontent.com/Jackiedee1223/image-repos/5b028134805ba2b26edaaf3bd33b0d9d0a85fecd/Network%20Design.png">
