@@ -33,4 +33,8 @@ The devices in building A will be expected to acquire dynamic IP addresses from 
 <p>5. VLANs, Inter-VLAN Routing (Router on a stick), DHCP Server, Port-Security, SSH, WLAN</p>
 
 <h2>Result</h2>
-<img src="Network_Design.jpg" alt="Italian Trulli">
+<img src="https://raw.githubusercontent.com/Jackiedee1223/image-repos/5b028134805ba2b26edaaf3bd33b0d9d0a85fecd/Network%20Design.png">
+
+<h2>Reference</h2>
+<p>Learning from GURUTECH NETWORKS </p>
+
