@@ -36,5 +36,5 @@ The devices in building A will be expected to acquire dynamic IP addresses from 
 <img src="https://raw.githubusercontent.com/Jackiedee1223/image-repos/5b028134805ba2b26edaaf3bd33b0d9d0a85fecd/Network%20Design.png">
 
 <h2>Reference</h2>
-<p>Learning from GURUTECH NETWORKS </p>
+<p>Learning from <b>GURUTECH NETWORKS</b> </p>
 
