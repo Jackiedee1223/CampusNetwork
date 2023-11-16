@@ -15,7 +15,7 @@
   * <b>Building-A</b> is the dministrative staff in the departments of management, HR and finance. The admin staff PCs are distributed in the building offices and it is expected that they will share some networking equipment (VLAN). The Faculty of Business is also situated in this building.
   * <b>Building-B</b> is Faculty of Engineering and Laws.
   * <b>Building-C</b> is Students' labs and IT department. The IT department hosts the University Web Server and other servers.
-  * There is alos an email server hosted externally on the cloud.<br>
+  * There is also an email server hosted externally on the cloud.<br>
  
  <b>Sub campus:</b> <br>
  
