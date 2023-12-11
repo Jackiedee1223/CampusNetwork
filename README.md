@@ -19,18 +19,16 @@ Users will access our website by using a URL and that URL we be pointing are tol
 
 <h2>Flow of Execution</h2>
 
-1.	Login to AWS Account
-2.	Create Key Pairs
-3.	Create Security groups
-4.	Launch instances with user data
-5.	Update IP address to name mapping in Route 53
-6.	Build application from source code
-7.	Upload to S3 bucket
-8.	Download artifact to Tomcat EC2 instance
-9.	Setup ELB with HTTPS, certificate from ACM
-10.	Map ELB endpoint to website name in GoDaddy DNS
-11.	Verify setup
-12.	Build ASG for Tomcat instances.
+1.	Create Security groups
+2.	Create Key pairs
+3.	Launch instances with user data
+4.	Update IP address to name mapping in Route 53
+5.	Build application from source code
+6.	Upload to S3 bucket
+7.	Download artifact to Tomcat EC2 instance
+8.	Setup ELB with HTTPS, certificate from ACM
+9.	Map ELB endpoint to website name in GoDaddy DNS
+10.	Build ASG for Tomcat instances.
 
 <h2>Validation & Summarization</h2>
 <h4>Security Group & Key Pairs</h4>
